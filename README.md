@@ -4,9 +4,7 @@ A very simple implementation of Fractal Tree (aka Fractal Canopy) written in C u
 
 demo.gif
 
-<img src="demo.gif" alt="demo" width="500">
-
-
+![demo](demo.gif)
 
 ## Try it yourself!
 
